@@ -25,7 +25,11 @@ header_pages:
 include:
     - _pages
 
-pemalink: /:title/
+
+posts:
+  include: [ "_posts" ]
+
+permalink: /:title/
 
 exclude: 
     - .gitignore
