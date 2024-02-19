@@ -11,8 +11,12 @@
             "id": "f255b4621ea2d82d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/aaaaa.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/aaaaa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/aaaaa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/aaaaa.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "f255b4621ea2d82d",
   "lastOpenFiles": [
+    "_posts/company reflections 1.md",
+    "_posts/note.md",
     "_posts/2020-04-19-links.md",
     "_posts/2020-04-17-local-env.md",
     "_posts/2020-04-15-posts.md",
