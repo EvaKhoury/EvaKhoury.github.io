@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-19-uuuuuu.md",
+                "file": "_pages/frontpage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-19-uuuuuu.md",
+                "file": "_pages/frontpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-19-uuuuuu.md",
+                "file": "_pages/frontpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-19-uuuuuu.md"
+                "file": "_pages/frontpage.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "f255b4621ea2d82d",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_posts/2024-02-19-uuuuuu.md",
     "_posts/2020-03-18-my-first-post.md",
     "_posts/aaaaa.md",
     "_pages/frontpage.md",
     "_pages/archive.md",
     "_pages/404.md",
-    "_pages/about.md",
     "_posts/company reflections 1.md",
     "_posts/note.md",
     "_posts/2020-04-19-links.md",
