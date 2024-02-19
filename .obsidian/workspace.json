@@ -11,12 +11,8 @@
             "id": "f255b4621ea2d82d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2020-03-25-github-edit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-25-github-edit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-03-25-github-edit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2020-03-25-github-edit.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,11 @@
   },
   "active": "f255b4621ea2d82d",
   "lastOpenFiles": [
-    "_posts/2020-04-15-posts.md",
-    "_posts/2020-04-17-local-env.md",
     "_posts/2020-04-19-links.md",
+    "_posts/2020-04-17-local-env.md",
+    "_posts/2020-04-15-posts.md",
+    "_posts/2020-03-25-github-edit.md",
+    "_posts/2020-03-18-my-first-post.md",
     "_posts/2020-04-20-html.md"
   ]
 }
