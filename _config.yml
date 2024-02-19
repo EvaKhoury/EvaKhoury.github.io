@@ -25,6 +25,8 @@ header_pages:
 include:
     - _pages
 
+pemalink: /:title/
+
 exclude: 
     - .gitignore
     - docker-compose.yml
